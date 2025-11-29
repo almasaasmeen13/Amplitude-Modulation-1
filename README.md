@@ -128,8 +128,8 @@ TABULATION:
 Calculation :
 ![WhatsApp Image 2025-11-12 at 15 28 30_b7b9c93a](https://github.com/user-attachments/assets/1eb04d42-bd72-4df4-93b8-749cb62d43db)
 
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac = 0.5
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.254
 
 
 MODEL GRAPH
